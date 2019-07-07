@@ -9,7 +9,7 @@ More information on setup of LoS-Panel for lcdproc [can be found here](http://lc
 ~~This project **will** support different connections and different types of HD44780 based displays.
 Main platform for this project is Arduino Uno and Nano boards but it should certainly work on another Arduino boards as well.~~
 
-## ~~Current status ~~
+## ~~Current status~~
 ~~Work in progress but already usable.~~
 
 ## ~~Supported configurations~~
